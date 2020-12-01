@@ -6,4 +6,6 @@ Professionally 🔨 I've been developing hybrid mobile apps, back-end services a
 
 So far 📢 these have been mainly for events and education, domains where rich content is king and assumptions are validated quickly.
 
+I enjoy writing in my 🌍 https://viewfromtheweb.com/ blog to help me learn and think. 
 
+You can also find me on [Twitter](https://twitter.com/t_var_s) 🐦
