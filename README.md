@@ -2,4 +2,4 @@
 
 🌍 Writes a blog at https://viewfromtheweb.com/  
 
-🐦 Can also be found on [Twitter](https://twitter.com/t_var_s) 
+🐦 Can also be found on [Mastodon](https://phpc.social/@t_var_s) and [Twitter](https://twitter.com/t_var_s) 
